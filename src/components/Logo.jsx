@@ -12,7 +12,7 @@ function Logo({ width = '100px' }) {
       "
       style={{ width }}
     >
-      Logo
+      Blogify
     </div>
   )
 }
