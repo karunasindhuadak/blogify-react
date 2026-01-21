@@ -3,7 +3,7 @@
 Blogify is a full-stack blog application built with React and Appwrite.  
 Users can create, read, and manage blog posts with images.
 
-🌐 Live Demo: https://mega-blog-beryl-six.vercel.app/
+🌐 Live Demo: https://blogify-react-zeta.vercel.app/
 
 ---
 
