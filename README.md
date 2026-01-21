@@ -43,5 +43,5 @@ Deployment: Vercel
 
 ## 👤 Author
 
-Sindhu Adak  
+Karunasindhu Adak  
 B.Tech ECE | Aspiring Full Stack Developer
